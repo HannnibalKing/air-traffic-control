@@ -1,0 +1,8 @@
+{
+  "name": "air-traffic-control-vegas",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Deterministic air traffic conflict detection service",
+  "scripts": {"start": "node server.js", "test": "node --test test/*.test.js"},
+  "engines": {"node": ">=20"}
+}
